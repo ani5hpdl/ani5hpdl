@@ -24,8 +24,8 @@ Clean Architecture • Secure APIs • Scalable Systems
 <br/>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ani5hpdl&show_icons=false&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani5hpdl&layout=compact&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ani5hpdl&theme=transparent" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ani5hpdl&theme=transparent" />
 </p>
 
 <br/>
