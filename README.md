@@ -5,6 +5,14 @@
 <br/>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;PERN+%26+MERN+Stack+Specialist+%F0%9F%94%A5;Clean+Architecture+%7C+Secure+APIs;Building+Scalable+Systems+%F0%9F%8C%90;Open+to+Freelance+%26+Remote+Work+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <p><em>Clean Architecture &nbsp;•&nbsp; Secure APIs &nbsp;•&nbsp; Scalable Systems</em></p>
 </div>
 
